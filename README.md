@@ -1,4 +1,4 @@
-# Gif Search App
+# Gif Search App 🔍
 
 This project is a Gif Search App that allows users to search for GIFs related to a specific keyword. The app uses the GIPHY API to fetch and display GIFs on the screen. Users can also copy the link to the GIF to share it with others.
 
